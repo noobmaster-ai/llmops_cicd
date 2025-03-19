@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "VM-sb-llmops",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus26.actions.githubusercontent.com/9C6QMTzVxhNsJGoXJgpWnWeXsWOtWJBp7oUigIe9OrMDSds3UG/",
+  "gitHubUrl": "https://github.com/noobmaster-ai/llmops_cicd",
+  "workFolder": "_work"
+}
